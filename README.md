@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Currently learning full stack development and working on final work integrated project.
 <!--
 **j-lindsey/j-lindsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
