@@ -1,4 +1,4 @@
-Currently learning full stack development and working on final work integrated project.
+I have a lifelong passion for understanding and solving problems.  I am driven to dig in and understand what is going wrong and loves when the lightbulb goes off and I find the solution or the missing piece.  I love collaborating with others to bring ideas to life.  When I am interested in a subject I needs to learn everything I can about it.  I currently just finished a full stack development course and am looking to put my new skills to use.  
 <!--
 **j-lindsey/j-lindsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
